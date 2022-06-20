@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\CPP\220618_TextRPG_001\220618_TextRPG_001\Player.h(121,7): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  Player.h
+C:\CPP\220618_TextRPG_001\220618_TextRPG_001\Player.h(121,7): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  Time.h
+  코드를 생성하고 있습니다...
+C:\CPP\220618_TextRPG_001\220618_TextRPG_001\Player.h(188): warning C4715: 'Player::pushStatus': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\CPP\220618_TextRPG_001\220618_TextRPG_001\Player.h(215): warning C4715: 'Player::attack': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  220618_TextRPG_001.vcxproj -> C:\CPP\220618_TextRPG_001\x64\Debug\220618_TextRPG_001.exe
